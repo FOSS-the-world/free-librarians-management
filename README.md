@@ -28,3 +28,6 @@ Notice: the software used *SHOULD BE FREE AND OPEN SOURCE* or the library cannot
 - A wishlist not concerning books but other necessary items or services
 
 If features are met, all implementation are good enough, and the variations are a way to have diversity in the community and show the personality of the certain Library.
+
+## Important note
+This software is not get ready to be used! You're highly enouraged to contribute to the repository (if you are able to do so).
